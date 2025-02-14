@@ -1,8 +1,8 @@
 # llmAiStudy
 
 
-# project2.ipynb
-# 미니포에 웹 크롤러 📦
+## project2.ipynb
+## 미니포에 웹 크롤러 📦
 
 - 미니포에 웹사이트에서 상품 정보를 크롤링하는 프로그램
 
@@ -26,8 +26,8 @@
     ```
 
 
-# project3.ipynb
-# mongoDB 이미지 관리 📸
+## project3.ipynb
+## mongoDB 이미지 관리 📸
 
 - MongoDB를 활용하여 이미지 파일을 저장하고 관리하는 프로그램
 

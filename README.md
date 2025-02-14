@@ -43,6 +43,6 @@
 
 ### 설치 및 실행 방법
 1. 필요한 라이브러리 설치:
-        ```bash
-        pip install pymongo gridfs
-        ```
+    ```bash
+    pip install pymongo gridfs
+    ```
